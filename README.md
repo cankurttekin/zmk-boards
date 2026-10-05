@@ -1,10 +1,5 @@
 # ZMK Configuration for Dactyl Manuform 68 keys
 
 -----
-![layer0](./assets/layer0.png) 
 
-![layer1](./assets/layer1.png) 
-
-![layer2](./assets/layer2.png) 
-
-![layer3](./assets/layer3.png) 
+For using 36 keys skeletyl layout on dactyl manuform 68 keys.
