@@ -1,4 +1,4 @@
-# ZMK Configuration for Dactyl Manuform 68 keys
+# Dactyl Manuform (68 keys)
 
 -----
 ![layer0](./assets/layer0.png) 
