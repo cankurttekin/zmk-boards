@@ -1,9 +1,4 @@
-# ZMK Configuration for my keyboards
-
-## Branches
-* [manufom](https://github.com/cankurttekin/zmk-dactyl-manuform-68keys/tree/manuform-68keys)
-* [cygnus](https://github.com/cankurttekin/zmk-dactyl-manuform-68keys/tree/cygnus)
------
-![manuform](./assets/manuform.png) 
-
-![cygnus](./assets/cygnus.png) 
+### Keyboards
+* [manufom](https://github.com/cankurttekin/zmk-boards/tree/manuform-68keys)
+* [skeletyl](https://github.com/cankurttekin/zmk-boards/tree/skeletyl)
+* [cygnus](https://github.com/cankurttekin/zmk-boards/tree/cygnus)
