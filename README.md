@@ -1,5 +1,4 @@
-# ZMK Configuration for Dactyl Manuform 68 keys
+# ZMK Configuration for Skeletyl
 
 -----
 
-For using 36 keys skeletyl layout on dactyl manuform 68 keys.

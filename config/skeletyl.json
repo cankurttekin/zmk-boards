@@ -1,8 +1,8 @@
 {
-  "id": "dactyl_manuform",
-  "name": "dactyl_manuform",
+  "id": "skeletyl",
+  "name": "skeletyl",
   "layouts": {
-    "dactyl_manuform": {
+    "skeletyl": {
       "layout": [
         { "row": 0, "col":  0, "x":  0, "y": 0 },
         { "row": 0, "col":  1, "x":  1, "y": 0 },
